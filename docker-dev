@@ -1,0 +1,6 @@
+Docker in Software Development 
+
+Pull image of mongodb and mongoexpress from Docker hub
+Docker Network- Connect mongodb to mongoexpress using its own network --sudo docker network ls 
+Run contaniers both mongodb and mongoexpress 
+Connect Node js server to mongodb 

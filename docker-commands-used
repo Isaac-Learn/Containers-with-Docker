@@ -1,0 +1,17 @@
+Docker commands used 
+
+docker pull mongo
+docker pull mongo-express
+docker images
+docker network create mongo-network
+docker network ls 
+docker run 
+docker start 
+docker stop
+docker compose
+docker ps 
+docker ps -a
+
+Debug commands 
+docker logs 
+docker exec -it
